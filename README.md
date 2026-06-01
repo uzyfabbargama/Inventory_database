@@ -1,3 +1,4 @@
+(verificar archivo de robustez.md, para la base de datos robusta con procedimiento almacenado)
 # Inventory_database
 ### Proyecto integrador, Programación Full Stack, para la materia Base de datos III
 
